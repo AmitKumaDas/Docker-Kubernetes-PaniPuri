@@ -1,4 +1,4 @@
-## PaniPuri-Docker & Kubernetes analogy:
+## PaniPuri-Docker & Kubernetes Analogy:
 
 1. **Puri - Container**: Docker containers are like individual Puris - each contains its own set of ingredients and can be easily deployed and shared.
 
