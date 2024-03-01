@@ -19,7 +19,8 @@
 6. **Docker Engine - Chef**: Chef is like the Docker Engine, managing the creation, running, and removal of containers based on the instructions provided in the Dockerfile.
 
 ---
-## Kubernetes Architecture Components:
+##[ Kubernetes Architecture Components:]
+https://github.com/AmitKumaDas/Docker-Kubernetes-PaniPuri/edit/main/README.md
 
 Kubernetes components explained with the PaniPuri analogy:
 
